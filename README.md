@@ -1,2 +1,2 @@
 # LAB-Linux-file-cache-analyzing
-A demo for understanding Linux file memory cache
+A demo for better understanding Linux file memory cache
